@@ -43,6 +43,8 @@
                             <th>Nombre</th>
                             <th>Grado</th>
                             <th>Promedio</th>
+                            <th></th>
+                            <th></th>
                         </tr>
                     </thead> 
                     
